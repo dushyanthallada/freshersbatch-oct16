@@ -3,7 +3,7 @@
 <title>This is a JavaScript example</title>
 <script language="JavaScript">
 <!--
-document.write("Hello World!");
+document.write("Hello World!.I am Dushyanth");
 //-->
 </script>
 </head>
